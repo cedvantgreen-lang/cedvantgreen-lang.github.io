@@ -32,13 +32,13 @@ toggleGrid();
 
 // TODO 2 - Create Platforms
 createPlatform(500,300, 200,20);
-createPlatform(600,400,200,20);
-createPlatform(700,400,200,20);
-createPlatform(800,700,200,20);
-createPlatform(900,600,200,20);
+createPlatform(600,500,200,20);
+createPlatform(300,400,200,20);
+createPlatform(700,700,200,20);
+createPlatform(900,590,200,20);
 createPlatform(1000,900,200,20);
 createPlatform(700, 800, 200,20);
-createPlatform(1300, 900, 200,20);
+createPlatform(9000, 900, 200,20);
 
 
 
